@@ -13,3 +13,7 @@ El proyecto consiste en una el cual usando metodos de machine learning sea capaz
 
 <br>El modelo del carro que se utilizo fue conseguido de la siguente liga
 [Modelo del carro](https://sketchfab.com/3d-models/lightning-mcqueen-b33dd46a8745401a8e5f579e624ddc20)<br/>
+
+## Resultados
+https://github.com/X4ndre/Carro-Autonomo/assets/93948426/379b1e08-005c-4619-a585-b41d5838cef4
+
