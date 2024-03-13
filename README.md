@@ -11,7 +11,7 @@ El proyecto consiste en una el cual usando metodos de machine learning sea capaz
 <br>[GeneticManager.cs](https://github.com/X4ndre/Carro-Autonomo/blob/main/Assets/GeneticManager.cs) sera el encargado de realizar todos los ajustes necesarios para que el modelo sea capaz de aprender de sus errores y ajustarse (Concepto de mutación)<br/>
 <br>El projecto se basa en el uso de 3 herramientas Unity, C#, y MathNet.Numerics, en donde este ultimo es codigo abierto el cual porporciona métodos para calculos numéricos para el uso de la ciencia e ingeniería como lo es en este caso<br/>
 
-<br>El modelo del carro que se utilizo fue conseguido de la siguente liga
+<br>El modelo 3D del carro que se utilizo en el proyecto fue conseguido de la siguente liga
 [Modelo del carro](https://sketchfab.com/3d-models/lightning-mcqueen-b33dd46a8745401a8e5f579e624ddc20)<br/>
 
 ## Resultados
