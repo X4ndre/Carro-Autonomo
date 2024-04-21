@@ -1,5 +1,5 @@
 # Carro-Autonomo
-El proyecto consiste en una el cual usando metodos de machine learning sea capaz de aprenden a manejar sobre una pista aleatoria 
+El proyecto consiste en un carro dentro de unity_3d el cual usando metodos de machine learning sea capaz de aprenden a manejar sobre una pista aleatoria 
 
 # Contenido
 1. Carro_Autonomo
